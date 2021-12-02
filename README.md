@@ -1,6 +1,6 @@
 ### FFXIV Wiki Parser
 
-Generates json files that contain dictionary information for my XIV Wiki plugin.
+Generates json files that contain dictionary information for my [XIV Wiki plugin](https://github.com/MidoriKami/XIVWiki).
 
 This tool will connect to "https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki" and search the Dungeons, Trials, and Raids pages for instance names, and the associated URLs for those pages.
 
