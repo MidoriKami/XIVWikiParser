@@ -8,4 +8,4 @@ The datatype used is Dictionary<string,string>
 
 Key represents the human readable name of the instance ( example. "The Fractal Continuum (Hard)" )
 
-The Value is the url offset for that page. ( example. "/wiki/The_Fractal_Continuum_(Hard)" )
+Value is the url offset for that page. ( example. "/wiki/The_Fractal_Continuum_(Hard)" )
