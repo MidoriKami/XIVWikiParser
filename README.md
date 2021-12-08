@@ -2,7 +2,7 @@
 
 A far simpler method of simply using the built in data tables for pattern matching has been implemented into XIVWiki
 
-~~FFXIV Wiki Parser~~
+~~## FFXIV Wiki Parser~~
 
 ~~Generates json files that contain dictionary information for my [XIV Wiki plugin](https://github.com/MidoriKami/XIVWiki).~~
 
